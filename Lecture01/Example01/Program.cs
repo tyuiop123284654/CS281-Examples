@@ -10,7 +10,7 @@ namespace Example01
     {
         static void Main(string[] args)
         {
-            Console.Write("9527");
+            Console.Write("9527+1");
              }
     }
 }
